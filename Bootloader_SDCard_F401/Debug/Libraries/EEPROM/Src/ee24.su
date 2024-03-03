@@ -1,0 +1,4 @@
+../Libraries/EEPROM/Src/ee24.c:20:6:ee24_isConnected	8	static
+../Libraries/EEPROM/Src/ee24.c:31:6:ee24_write	48	static
+../Libraries/EEPROM/Src/ee24.c:87:6:ee24_read	40	static
+../Libraries/EEPROM/Src/ee24.c:117:6:ee24_eraseChip	56	static

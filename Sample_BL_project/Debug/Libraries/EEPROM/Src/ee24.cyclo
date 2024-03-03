@@ -1,0 +1,4 @@
+../Libraries/EEPROM/Src/ee24.c:20:6:ee24_isConnected	2
+../Libraries/EEPROM/Src/ee24.c:31:6:ee24_write	6
+../Libraries/EEPROM/Src/ee24.c:87:6:ee24_read	3
+../Libraries/EEPROM/Src/ee24.c:117:6:ee24_eraseChip	3
